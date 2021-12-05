@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wgl3Dev William G. Loftin III (Retired SW Engineer)
-- 👀 I’m interested in Eveything.
-- 🌱 I’m currently learning Utopia, Web Creation, PHP, OO, Arduino, X-Bee... 
-- 💞️ I’m looking to collaborate on Russion
+- 👀 I’m interested in AIM.
+- 🌱 I’m currently learning to work with GetHub, PinePhone and Raspberry Pi 4.
 - 📫 How to reach me - 8C075CA4939573BCF9880614BC70E724C26E7D4115029595BCB811ABD389D754 or iWm@wglware.com
 
 <!---
